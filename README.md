@@ -1,4 +1,4 @@
-# Port Authority Bus Terminal Passenger Prediction (2025-2030)
+# Consulting Project for the Port Authority of NY and NJ
 
 This project was developed in collaboration with the Port Authority of New York and New Jersey and the University of New Haven. The goal of the project was to support data-driven infrastructure planning for the Port Authority Bus Terminal by forecasting passenger volumes and analyzing travel behavior trends from 2025 to 2030.
 
